@@ -91,5 +91,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Special thanks to React and Redux for making this project possible. Inspired by the beauty of online shopping. Happy shopping!
+thanks to React and Redux for making this project possible. Inspired by the beauty of online shopping. Happy shopping!
 
