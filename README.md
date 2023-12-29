@@ -91,11 +91,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Special thanks to React and Redux for making this project possible.
-Inspired by the beauty of online shopping.
-Happy shopping!
-Make sure to replace placeholders like `your-username` with your actual GitHub username. Customize the sections and content based on your project's specifics. Add badges, screenshots, or any other relevant information that can make your README more engaging and informative.
-
-
-
+Special thanks to React and Redux for making this project possible. Inspired by the beauty of online shopping. Happy shopping!
 
